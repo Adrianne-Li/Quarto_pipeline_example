@@ -2,7 +2,6 @@
 
 A reproducible and automated pipeline for collecting, processing, and visualizing PySAL ecosystem metrics using Python, Quarto, and GitHub Actions.
 
----
 
 ## Repository Structure
 
@@ -35,7 +34,6 @@ pysal-quarto-site/
         └── publish.yml        # CI/CD pipeline (build + deploy)
 ```
 
----
 
 ## Project Overview
 
@@ -48,7 +46,6 @@ This project builds an automated dashboard to track PySAL module performance acr
 
 The pipeline is fully automated and deployed via GitHub Pages.
 
----
 
 ## ⚙️ Pipeline Summary
 
@@ -61,7 +58,6 @@ scripts → data → quarto → _site → GitHub Pages
 * **Quarto (`.qmd`)**: renders pages
 * **GitHub Actions**: automates updates and deployment
 
----
 
 ## Pages
 
@@ -69,7 +65,6 @@ scripts → data → quarto → _site → GitHub Pages
 * `/snapshot.html` — Static dataset view
 * `/latest.html` — Auto-updated live view
 
----
 
 ##  Tech Stack
 
@@ -79,7 +74,6 @@ scripts → data → quarto → _site → GitHub Pages
 * GitHub Actions
 * GitHub Pages
 
----
 
 ##  Author
 
