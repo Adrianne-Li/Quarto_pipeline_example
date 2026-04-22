@@ -1,0 +1,20 @@
+---
+title: "Snapshot Metrics"
+---
+
+This page uses the archived snapshot JSON stored in the repository.
+
+```{=html}
+<div id="chart-root"></div>
+<script>
+  fetch("data/pysal_metrics_snapshot.json")
+    .then(response => {
+      if (!response.ok) throw new Error("Failed to load snapshot JSON");
+      return response.json();
+    })
+    .then(payload => renderRosePlot(payload, "chart-root"))
+    .catch(err => {
+      document.getElementById("chart-root").innerHTML =
+        `<p style="color:red;">Could not load snapshot data: ${err.message}</p>`;
+    });
+</script>
