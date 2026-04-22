@@ -1,0 +1,109 @@
+
+---
+
+# 5) `styles.css`
+
+```css
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9fafb;
+}
+
+.container {
+  max-width: 1600px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 0 auto;
+}
+
+.controls,
+.chart,
+.legend,
+.metrics {
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.controls {
+  flex: 1;
+  min-width: 250px;
+}
+
+.chart {
+  flex: 4;
+  min-width: 700px;
+}
+
+.legend,
+.metrics {
+  flex: 1;
+  min-width: 250px;
+}
+
+.slider-container {
+  margin-bottom: 20px;
+}
+
+.error-message {
+  color: red;
+  display: none;
+}
+
+.tooltip {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.85);
+  color: white;
+  padding: 12px;
+  border-radius: 6px;
+  font-size: 14px;
+  pointer-events: none;
+  max-width: 320px;
+  z-index: 10;
+  line-height: 1.45;
+}
+
+.module-button {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+  cursor: pointer;
+  border-radius: 6px;
+  padding: 6px 8px;
+  border: none;
+  background: transparent;
+}
+
+.module-button:hover {
+  background: #e5e7eb;
+}
+
+.module-swatch {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  margin-right: 8px;
+}
+
+.control-button {
+  background-color: #3b82f6;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}
+
+.control-button:hover {
+  background-color: #2563eb;
+}
+
+.help-text {
+  margin-top: 1rem;
+  font-size: 0.875rem;
+  color: #4b5563;
+}
