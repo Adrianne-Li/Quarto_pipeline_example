@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "PySAL Metrics Dashboard"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: snapshot.qmd
+        text: Snapshot
+      - href: latest.qmd
+        text: Latest
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    css: styles.css
+    include-in-header:
+      text: |
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+        <script src="js/pysal-rose.js"></script>
+
+resources:
+  - data/pysal_metrics_snapshot.json
+  - data/pysal_metrics_latest.json
+  - js/pysal-rose.js
+  - styles.css
