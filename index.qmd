@@ -1,0 +1,10 @@
+---
+title: "PySAL Metrics Dashboard"
+---
+
+This site contains two versions of the PySAL metrics rose plot.
+
+- **Snapshot**: fixed JSON checked into the repository.
+- **Latest**: automatically refreshed JSON built by GitHub Actions.
+
+Use the navigation bar above to switch between them.
