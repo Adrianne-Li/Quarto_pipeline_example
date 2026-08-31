@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 13:01:47 UTC",
+  "generated_at_utc": "2026-08-31 19:05:22 UTC",
   "feature_labels": [
     "PIP Install\n(Last month, %)",
     "Conda Install\n(Total, %)",
@@ -16,9 +16,9 @@
       "repo": "access",
       "conda_channel": "conda-forge",
       "conda_package": "access",
-      "pypi_last_week": 35265,
-      "pypi_last_month": 126014,
-      "conda_total_downloads": 208274,
+      "pypi_last_week": 17332,
+      "pypi_last_month": 117765,
+      "conda_total_downloads": 208731,
       "stars": 27,
       "forks": 16,
       "age_years": 6.5,
@@ -29,16 +29,16 @@
       "pypi_url": "https://pypi.org/project/access/",
       "conda_url": "https://anaconda.org/conda-forge/access",
       "values": [
-        0.03704937456725405,
-        0.018243429793531822,
+        0.03774914870885506,
+        0.018108346612550386,
         0.01775147928994083,
         0.045584045584045586,
         0.48148148148148145,
         0.17073170731707318
       ],
-      "pypi_rank": 9,
+      "pypi_rank": 11,
       "conda_rank": 15,
-      "size": 0.7708415180333269
+      "size": 0.7714062089939465
     },
     {
       "module": "esda",
@@ -47,9 +47,9 @@
       "repo": "esda",
       "conda_channel": "conda-forge",
       "conda_package": "esda",
-      "pypi_last_week": 83291,
-      "pypi_last_month": 301352,
-      "conda_total_downloads": 462784,
+      "pypi_last_week": 37354,
+      "pypi_last_month": 261505,
+      "conda_total_downloads": 464242,
       "stars": 256,
       "forks": 68,
       "age_years": 9.5,
@@ -60,8 +60,8 @@
       "pypi_url": "https://pypi.org/project/esda/",
       "conda_url": "https://anaconda.org/conda-forge/esda",
       "values": [
-        0.08860049775890887,
-        0.040536828473884554,
+        0.08382449057962164,
+        0.0402750671826591,
         0.168310322156476,
         0.19373219373219372,
         0.7037037037037037,
@@ -69,7 +69,7 @@
       ],
       "pypi_rank": 3,
       "conda_rank": 4,
-      "size": 1.7436640336300449
+      "size": 1.7386262651595323
     },
     {
       "module": "giddy",
@@ -78,9 +78,9 @@
       "repo": "giddy",
       "conda_channel": "conda-forge",
       "conda_package": "giddy",
-      "pypi_last_week": 47018,
-      "pypi_last_month": 194719,
-      "conda_total_downloads": 269454,
+      "pypi_last_week": 23515,
+      "pypi_last_month": 177723,
+      "conda_total_downloads": 270040,
       "stars": 77,
       "forks": 27,
       "age_years": 9.3,
@@ -91,8 +91,8 @@
       "pypi_url": "https://pypi.org/project/giddy/",
       "conda_url": "https://anaconda.org/conda-forge/giddy",
       "values": [
-        0.05724933075976591,
-        0.02360239459359461,
+        0.05696847073395193,
+        0.023427176218449135,
         0.05062458908612755,
         0.07692307692307693,
         0.688888888888889,
@@ -100,7 +100,7 @@
       ],
       "pypi_rank": 5,
       "conda_rank": 9,
-      "size": 1.1168004753734053
+      "size": 1.1163443969724458
     },
     {
       "module": "inequality",
@@ -109,9 +109,9 @@
       "repo": "inequality",
       "conda_channel": "conda-forge",
       "conda_package": "inequality",
-      "pypi_last_week": 35334,
-      "pypi_last_month": 124163,
-      "conda_total_downloads": 225284,
+      "pypi_last_week": 18000,
+      "pypi_last_month": 116938,
+      "conda_total_downloads": 225920,
       "stars": 36,
       "forks": 18,
       "age_years": 8.1,
@@ -122,16 +122,16 @@
       "pypi_url": "https://pypi.org/project/inequality/",
       "conda_url": "https://anaconda.org/conda-forge/inequality",
       "values": [
-        0.03650516208035587,
-        0.019733393691032115,
+        0.03748405682262212,
+        0.019599569142616013,
         0.023668639053254437,
         0.05128205128205128,
         0.6,
         0.13414634146341464
       ],
-      "pypi_rank": 13,
+      "pypi_rank": 12,
       "conda_rank": 14,
-      "size": 0.8653355875701083
+      "size": 0.8661806577639585
     },
     {
       "module": "libpysal",
@@ -140,12 +140,12 @@
       "repo": "libpysal",
       "conda_channel": "conda-forge",
       "conda_package": "libpysal",
-      "pypi_last_week": 133516,
-      "pypi_last_month": 524220,
-      "conda_total_downloads": 986221,
+      "pypi_last_week": 72473,
+      "pypi_last_month": 462006,
+      "conda_total_downloads": 993154,
       "stars": 292,
       "forks": 107,
-      "age_years": 9.5,
+      "age_years": 9.6,
       "contributors": 79,
       "color": "#2ca02c",
       "visible": false,
@@ -153,16 +153,16 @@
       "pypi_url": "https://pypi.org/project/libpysal/",
       "conda_url": "https://anaconda.org/conda-forge/libpysal",
       "values": [
-        0.15412591565735487,
-        0.08638646002096635,
+        0.14809436758275626,
+        0.08616054573417876,
         0.19197896120973043,
         0.30484330484330485,
-        0.7037037037037037,
+        0.7111111111111111,
         0.9634146341463414
       ],
       "pypi_rank": 2,
       "conda_rank": 3,
-      "size": 2.404452979581402
+      "size": 2.405602924627423
     },
     {
       "module": "mapclassify",
@@ -171,12 +171,12 @@
       "repo": "mapclassify",
       "conda_channel": "conda-forge",
       "conda_package": "mapclassify",
-      "pypi_last_week": 216544,
-      "pypi_last_month": 862228,
-      "conda_total_downloads": 5755026,
+      "pypi_last_week": 127758,
+      "pypi_last_month": 787919,
+      "conda_total_downloads": 5842927,
       "stars": 151,
       "forks": 36,
-      "age_years": 9.3,
+      "age_years": 9.4,
       "contributors": 31,
       "color": "#98df8a",
       "visible": false,
@@ -184,16 +184,16 @@
       "pypi_url": "https://pypi.org/project/mapclassify/",
       "conda_url": "https://anaconda.org/conda-forge/mapclassify",
       "values": [
-        0.2535036435187703,
-        0.5041023497457688,
+        0.2525646117397561,
+        0.5069000165180505,
         0.0992767915844839,
         0.10256410256410256,
-        0.688888888888889,
+        0.6962962962962963,
         0.3780487804878049
       ],
       "pypi_rank": 1,
       "conda_rank": 1,
-      "size": 2.0263845567898193
+      "size": 2.035650599190494
     },
     {
       "module": "mgwr",
@@ -202,12 +202,12 @@
       "repo": "mgwr",
       "conda_channel": "conda-forge",
       "conda_package": "mgwr",
-      "pypi_last_week": 34567,
-      "pypi_last_month": 124240,
-      "conda_total_downloads": 269271,
+      "pypi_last_week": 18151,
+      "pypi_last_month": 116341,
+      "conda_total_downloads": 269967,
       "stars": 432,
       "forks": 141,
-      "age_years": 8.5,
+      "age_years": 8.6,
       "contributors": 14,
       "color": "#d62728",
       "visible": false,
@@ -215,16 +215,16 @@
       "pypi_url": "https://pypi.org/project/mgwr/",
       "conda_url": "https://anaconda.org/conda-forge/mgwr",
       "values": [
-        0.03652780084939485,
-        0.023586364999635612,
+        0.037292690612125055,
+        0.023420843142371715,
         0.28402366863905326,
         0.4017094017094017,
-        0.6296296296296297,
+        0.637037037037037,
         0.17073170731707318
       ],
-      "pypi_rank": 12,
+      "pypi_rank": 13,
       "conda_rank": 10,
-      "size": 1.5462085731441884
+      "size": 1.5542153484570618
     },
     {
       "module": "pointpats",
@@ -233,9 +233,9 @@
       "repo": "pointpats",
       "conda_channel": "conda-forge",
       "conda_package": "pointpats",
-      "pypi_last_week": 41876,
-      "pypi_last_month": 145086,
-      "conda_total_downloads": 390931,
+      "pypi_last_week": 20676,
+      "pypi_last_month": 136185,
+      "conda_total_downloads": 394770,
       "stars": 93,
       "forks": 33,
       "age_years": 9.5,
@@ -246,8 +246,8 @@
       "pypi_url": "https://pypi.org/project/pointpats/",
       "conda_url": "https://anaconda.org/conda-forge/pointpats",
       "values": [
-        0.042656733049221685,
-        0.03424297921303278,
+        0.043653613696050836,
+        0.03424806086415778,
         0.0611439842209073,
         0.09401709401709402,
         0.7037037037037037,
@@ -255,7 +255,7 @@
       ],
       "pypi_rank": 7,
       "conda_rank": 5,
-      "size": 1.1796669332283498
+      "size": 1.1806688955263038
     },
     {
       "module": "pysal",
@@ -264,9 +264,9 @@
       "repo": "pysal",
       "conda_channel": "conda-forge",
       "conda_package": "pysal",
-      "pypi_last_week": 37027,
-      "pypi_last_month": 130655,
-      "conda_total_downloads": 1074665,
+      "pypi_last_week": 18970,
+      "pypi_last_month": 122515,
+      "conda_total_downloads": 1075703,
       "stars": 1521,
       "forks": 351,
       "age_years": 13.5,
@@ -277,8 +277,8 @@
       "pypi_url": "https://pypi.org/project/pysal/",
       "conda_url": "https://anaconda.org/conda-forge/pysal",
       "values": [
-        0.03841387491933101,
-        0.09413357154069099,
+        0.03927174418600924,
+        0.0933220402152066,
         1.0,
         1.0,
         1.0,
@@ -286,7 +286,7 @@
       ],
       "pypi_rank": 8,
       "conda_rank": 2,
-      "size": 4.132547446460022
+      "size": 4.132593784401216
     },
     {
       "module": "segregation",
@@ -295,9 +295,9 @@
       "repo": "segregation",
       "conda_channel": "conda-forge",
       "conda_package": "segregation",
-      "pypi_last_week": 51316,
-      "pypi_last_month": 179759,
-      "conda_total_downloads": 258033,
+      "pypi_last_week": 26105,
+      "pypi_last_month": 169620,
+      "conda_total_downloads": 258709,
       "stars": 121,
       "forks": 29,
       "age_years": 7.7,
@@ -308,8 +308,8 @@
       "pypi_url": "https://pypi.org/project/segregation/",
       "conda_url": "https://anaconda.org/conda-forge/segregation",
       "values": [
-        0.05285094134647754,
-        0.02260199026241584,
+        0.054371083123135024,
+        0.022444161354979845,
         0.07955292570677186,
         0.08262108262108261,
         0.5703703703703704,
@@ -317,7 +317,7 @@
       ],
       "pypi_rank": 6,
       "conda_rank": 11,
-      "size": 0.9909241395754109
+      "size": 0.9922864524446324
     },
     {
       "module": "spaghetti",
@@ -326,9 +326,9 @@
       "repo": "spaghetti",
       "conda_channel": "conda-forge",
       "conda_package": "spaghetti",
-      "pypi_last_week": 34981,
-      "pypi_last_month": 122315,
-      "conda_total_downloads": 360402,
+      "pypi_last_week": 17619,
+      "pypi_last_month": 115427,
+      "conda_total_downloads": 361525,
       "stars": 285,
       "forks": 74,
       "age_years": 9.4,
@@ -339,8 +339,8 @@
       "pypi_url": "https://pypi.org/project/spaghetti/",
       "conda_url": "https://anaconda.org/conda-forge/spaghetti",
       "values": [
-        0.035961831623420246,
-        0.03156884001098772,
+        0.03699971118767897,
+        0.031363908614926765,
         0.1873767258382643,
         0.21082621082621084,
         0.6962962962962963,
@@ -348,7 +348,7 @@
       ],
       "pypi_rank": 14,
       "conda_rank": 6,
-      "size": 1.4547128314244477
+      "size": 1.4555457795926456
     },
     {
       "module": "spglm",
@@ -357,9 +357,9 @@
       "repo": "spglm",
       "conda_channel": "conda-forge",
       "conda_package": "spglm",
-      "pypi_last_week": 34915,
-      "pypi_last_month": 125620,
-      "conda_total_downloads": 255809,
+      "pypi_last_week": 18679,
+      "pypi_last_month": 117916,
+      "conda_total_downloads": 256561,
       "stars": 37,
       "forks": 23,
       "age_years": 9.6,
@@ -370,8 +370,8 @@
       "pypi_url": "https://pypi.org/project/spglm/",
       "conda_url": "https://anaconda.org/conda-forge/spglm",
       "values": [
-        0.03693353463217146,
-        0.02240718251943873,
+        0.03779755121770775,
+        0.0222578127602634,
         0.024326101249178174,
         0.06552706552706553,
         0.7111111111111111,
@@ -379,7 +379,7 @@
       ],
       "pypi_rank": 10,
       "conda_rank": 12,
-      "size": 0.9700610925999406
+      "size": 0.9707757394263016
     },
     {
       "module": "splot",
@@ -388,12 +388,12 @@
       "repo": "splot",
       "conda_channel": "conda-forge",
       "conda_package": "splot",
-      "pypi_last_week": 33930,
-      "pypi_last_month": 119688,
-      "conda_total_downloads": 238247,
+      "pypi_last_week": 17364,
+      "pypi_last_month": 112501,
+      "conda_total_downloads": 238730,
       "stars": 101,
       "forks": 26,
-      "age_years": 9.3,
+      "age_years": 9.4,
       "contributors": 59,
       "color": "#8c564b",
       "visible": false,
@@ -401,16 +401,16 @@
       "pypi_url": "https://pypi.org/project/splot/",
       "conda_url": "https://anaconda.org/conda-forge/splot",
       "values": [
-        0.03518946738620711,
-        0.020868867059832607,
+        0.03606179237375199,
+        0.02071089386250319,
         0.06640368178829717,
         0.07407407407407407,
-        0.688888888888889,
+        0.6962962962962963,
         0.7195121951219512
       ],
       "pypi_rank": 15,
       "conda_rank": 13,
-      "size": 1.604937174319251
+      "size": 1.613058933516874
     },
     {
       "module": "spopt",
@@ -419,11 +419,11 @@
       "repo": "spopt",
       "conda_channel": "conda-forge",
       "conda_package": "spopt",
-      "pypi_last_week": 35596,
-      "pypi_last_month": 125378,
-      "conda_total_downloads": 348872,
+      "pypi_last_week": 17989,
+      "pypi_last_month": 118131,
+      "conda_total_downloads": 351559,
       "stars": 380,
-      "forks": 65,
+      "forks": 66,
       "age_years": 7.5,
       "contributors": 24,
       "color": "#c49c94",
@@ -432,16 +432,16 @@
       "pypi_url": "https://pypi.org/project/spopt/",
       "conda_url": "https://anaconda.org/conda-forge/spopt",
       "values": [
-        0.03686238421519179,
-        0.030558887998161238,
+        0.03786646869719999,
+        0.030499313598658567,
         0.24983563445101906,
-        0.18518518518518517,
+        0.18803418803418803,
         0.5555555555555556,
         0.2926829268292683
       ],
-      "pypi_rank": 11,
+      "pypi_rank": 9,
       "conda_rank": 7,
-      "size": 1.3506805742343813
+      "size": 1.3544740871658896
     },
     {
       "module": "spreg",
@@ -450,9 +450,9 @@
       "repo": "spreg",
       "conda_channel": "conda-forge",
       "conda_package": "spreg",
-      "pypi_last_week": 54680,
-      "pypi_last_month": 195808,
-      "conda_total_downloads": 313111,
+      "pypi_last_week": 29025,
+      "pypi_last_month": 187181,
+      "conda_total_downloads": 314246,
       "stars": 90,
       "forks": 29,
       "age_years": 8.3,
@@ -463,8 +463,8 @@
       "pypi_url": "https://pypi.org/project/spreg/",
       "conda_url": "https://anaconda.org/conda-forge/spreg",
       "values": [
-        0.057569507636174404,
-        0.027426460077026142,
+        0.06000019873877807,
+        0.02726224417842826,
         0.05917159763313609,
         0.08262108262108261,
         0.6148148148148148,
@@ -472,22 +472,22 @@
       ],
       "pypi_rank": 4,
       "conda_rank": 8,
-      "size": 1.1830668774163804
+      "size": 1.1853333526203862
     }
   ],
   "summary": {
     "total_modules": 15,
     "top_pypi_month": "mapclassify",
-    "top_pypi_month_value": 862228,
+    "top_pypi_month_value": 787919,
     "top_conda_total": "mapclassify",
-    "top_conda_total_value": 5755026,
+    "top_conda_total_value": 5842927,
     "most_starred": "pysal",
     "most_starred_value": 1521,
     "oldest_module": "pysal",
     "oldest_module_value": 13.5
   },
   "totals": {
-    "pypi_last_month_total": 3401245,
-    "conda_total_downloads_total": 11416384
+    "pypi_last_month_total": 3119673,
+    "conda_total_downloads_total": 11526784
   }
 }
